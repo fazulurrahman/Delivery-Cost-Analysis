@@ -25,3 +25,5 @@ This project aims to analyze the year 2024 delivery data to identify the key var
 - Delivery Volume Peaks in March and June (6.0K+ deliveries).
 
 - R05 has Highest Cost Per Delivery (₹61.24 per unit).
+## Conclusion
+The project provides valuable insights that help improve delivery operations and customer satisfaction.
