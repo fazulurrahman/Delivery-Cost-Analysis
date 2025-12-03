@@ -13,3 +13,4 @@ This project aims to analyze the year 2024 delivery data to identify the key var
 - Excel for data cleaning and formatting
 - Sql for data analysis
 - Power Bi for data visualization
+## Project files 
